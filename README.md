@@ -6,7 +6,7 @@ A simple script that starts at a random Wikipedia article and tries to make it's
 
 ![Photo 2](/photo2.png "Photo 2")
 
-pip:
+pip / conda:
 - request
 - beautifulsoup4
 - time
